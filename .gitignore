@@ -1,1 +1,7 @@
+# System Files
 .DS_Store
+
+# Environment
+.env
+# Entorno virtual
+.venv/
