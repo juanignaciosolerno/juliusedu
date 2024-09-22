@@ -6,3 +6,6 @@
 
 # Entorno virtual
 .venv/
+
+# Data
+.data/
